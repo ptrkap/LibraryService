@@ -8,6 +8,8 @@ public class Foobar {
         System.out.println("hello, this is calc2");
     }
 
-    public void calc3() {}
+    public void calc3() {
+        System.out.println("This is science feature");
+    }
 
 }
