@@ -11,9 +11,8 @@ public class Foobar {
 
     public void calc3() {
         System.out.println("This is science feature");
-    }
-    public void calc3() {
         System.out.println("This is art feature");
+        System.out.println("something new");
     }
 
 }
