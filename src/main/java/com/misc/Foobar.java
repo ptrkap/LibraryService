@@ -6,4 +6,6 @@ public class Foobar {
 
     public void calc2() {}
 
+    public void calc3() {}
+
 }
