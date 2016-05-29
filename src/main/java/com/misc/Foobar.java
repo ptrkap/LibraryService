@@ -4,7 +4,9 @@ public class Foobar {
 
     public void calc() {}
 
-    public void calc2() {}
+    public void calc2() {
+        System.out.println("hello, this is calc2");
+    }
 
     public void calc3() {}
 
